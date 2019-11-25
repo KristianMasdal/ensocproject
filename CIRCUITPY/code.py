@@ -1,3 +1,4 @@
+#hentet fra https://learn.adafruit.com/circuitpython-nrf52840/button-press
 import requests
 from adafruit_ble.uart import UARTServer
 from adafruit_bluefruit_connect.packet import Packet

@@ -1,3 +1,4 @@
+//Modifisert og hentet fra https://github.com/rlangoy/socLabWeek42/tree/master/mbed
 #include "mbed.h"
 #include "TextLCD.h"
 
